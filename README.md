@@ -76,18 +76,7 @@ Devenez le champion ultime de la Battle Arena en :
   <img src="https://via.placeholder.com/250x150?text=Screenshot+4" alt="Arène">
 </div>
 
-## 📥 Téléchargement
-*Version actuelle : 1.0.0*
 
-| Plateforme | Lien |
-|------------|------|
-| Windows | [Download.exe](#) |
-| Android | [Play Store](#) |
-| iOS | [App Store](#) |
-
-*(Remplacez # par les vrais liens de téléchargement)*
-
----
 
 > 💡 *Astuce : Combinez les attaques de base pour créer des combos dévastateurs!*
 
