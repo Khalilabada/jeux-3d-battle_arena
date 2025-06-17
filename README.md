@@ -1,6 +1,6 @@
 # Battle Arena - Jeu de Combat
 
-![Battle Arena Banner](https://via.placeholder.com/1200x400?text=Battle+Arena+Banner)  
+
 *(Remplacez par une bannière attrayante montrant des personnages en combat)*
 
 ## 🎮 Description
@@ -9,13 +9,13 @@
 - Des **combats stratégiques** exigeant précision et adaptation
 - Une **progression gratifiante** avec déblocage de compétences
 
-![Gameplay Screenshot](https://via.placeholder.com/800x450?text=Gameplay+Screenshot)  
+
 *(Exemple de combat en jeu - à remplacer par une vraie capture)*
 
 ## ✨ Fonctionnalités principales
 
 ### 🥋 Système de Combat
-![Combat System](https://via.placeholder.com/400x225?text=Combat+System)
+
 - **2 niveaux de difficulté** :
   - 🔰 Facile : 3 combats successifs
   - 💀 Difficile : 5 adversaires redoutables
@@ -25,13 +25,13 @@
   - ⚖ Équilibré (stats bien réparties)
 
 ### 🏆 Progression
-![Progression](https://via.placeholder.com/400x225?text=Progression+System)
+
 - Débloquez **10+ combos spéciaux**
 - Obtenez **5 capacités ultimes**
 - Collectionnez **20+ trophées** améliorant vos stats
 
 ### 🌍 Environnements
-![Arenas](https://via.placeholder.com/800x225?text=Dynamic+Arenas)
+
 - **5 arènes uniques** :
   1. � Ruelle urbaine (décor interactif)
   2. ⛰ Montagne enneigée (effets de glisse)
@@ -45,13 +45,12 @@ Devenez le champion ultime de la Battle Arena en :
 2. Adaptant votre stratégie à chaque adversaire
 3. Utilisant intelligemment l'environnement
 
-![Victory Screen](https://via.placeholder.com/600x300?text=Victory+Screen)  
+
 *(Écran de victoire après un tournoi réussi)*
 
 ## 🕹️ Contrôles
 
 ### PC
-![PC Controls](https://via.placeholder.com/400x200?text=PC+Controls)
 - **Mouvement** : `ZQSD` ou `↑←↓→`
 - **Attaque de base** : `Clic gauche`
 - **Attaque spéciale** : `Clic droit`
