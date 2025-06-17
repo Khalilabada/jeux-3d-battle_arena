@@ -10,7 +10,7 @@
 - Une **progression gratifiante** avec déblocage de compétences
 
 
-*(Exemple de combat en jeu - à remplacer par une vraie capture)*
+
 
 ## ✨ Fonctionnalités principales
 
@@ -59,7 +59,7 @@ Devenez le champion ultime de la Battle Arena en :
 - **Ultime** : `Ctrl`
 
 ### Mobile
-![Mobile Controls](https://via.placeholder.com/400x200?text=Mobile+Controls)
+
 - **Joystick virtuel** : Déplacement
 - **Boutons tactiles** : 
   - 👊 Attaque
@@ -67,18 +67,6 @@ Devenez le champion ultime de la Battle Arena en :
   - ✨ Spécial
   - 💥 Ultime
 
-## 📸 Galerie
-<div align="center">
-  <img src="https://via.placeholder.com/250x150?text=Screenshot+1" alt="Combat 1">
-  <img src="https://via.placeholder.com/250x150?text=Screenshot+2" alt="Combat 2">
-  <img src="https://via.placeholder.com/250x150?text=Screenshot+3" alt="Personnages">
-  <img src="https://via.placeholder.com/250x150?text=Screenshot+4" alt="Arène">
-</div>
 
 
 
-> 💡 *Astuce : Combinez les attaques de base pour créer des combos dévastateurs!*
-
-<div align="center">
-  <img src="https://via.placeholder.com/800x100?text=Join+the+Battle+Today!" alt="Call to Action">
-</div>
